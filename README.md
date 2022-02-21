@@ -15,7 +15,7 @@
 - [x] 4장 오차 수정하기: 경사 하강법 (22-02-09)  
   [① 경사 하강법 실습 - Linear Regression](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/deeplearning_class/04-1_Linear_Regression.ipynb)    
   [② 다중 선형 회귀 실습 - Multi Linear Regression](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/deeplearning_class/04-2_Multi-Linear-Regression%20.ipynb)   
-- [x] 5장 참 거짓 판단 장치: 로지스틱 회귀 (22-02-10)
+- [x] 5장 참 거짓 판단 장치: 로지스틱 회귀 (22-02-10)   
   [① 로지스틱 회귀 - Logistic Regression](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/deeplearning_class/05-1_Logistic_Regression.ipynb)
 
 #### 3️⃣ 셋째마당: 신경망의 이해
@@ -44,19 +44,19 @@
   [② Train Test](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/13-2_Sonar_Train_Test.ipynb)   
   [③ Save Model](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/13-3_Sonar-Save-Model.ipynb)   
   [④ K-fold](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/13-4_Sonar-K-fold.ipynb)  
-- [x] 14장 베스트 모델 만들기 (22-02-20 ~ 22-02-21)
-  와인의 종류 예측
+- [x] 14장 베스트 모델 만들기 (22-02-20 ~ 22-02-21)   
+  와인의 종류 예측   
   [① Data Check and Execute](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/14-1_Wine.ipynb)   
   [② Checkpoint and Overfit Graph](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/14-2_Wine_Checkpoint_Overfit_Graph.ipynb)   
   [③ Early Stop](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/14-3_Wine_Early_Stop.ipynb)   
   [④ Check and Stop](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/14-4_Wine_Check_and_Stop.ipynb)
 - [x] 15장 선형 회귀 적용하기 (22-02-21)
   보스턴 집값 예측하기   
-  [① Boston]()   
+  [① Boston](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/15_Boston.ipynb)   
 
 #### 5️⃣ 다섯째마당: 딥러닝의 활용
-- 16장 이미지 인식의 꽃, CNN 익히기 (22-02-21 ~ )
-  [① Data Preprocessing ]()
+- [x] 16장 이미지 인식의 꽃, CNN 익히기 (22-02-21 ~ )   
+  [① Data Preprocessing ](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/16-1_MNIST_Data.ipynb)
 - [ ] 17장 딥러닝을 이용한 자연어 처리
 - [ ] 18장 시퀀스 배열로 다루는 순환 신경망(RNN)
 - [ ] 19장 세상에 없는 얼굴 GAN, 오토인코더
