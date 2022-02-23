@@ -56,11 +56,16 @@
 
 #### 5️⃣ 다섯째마당: 딥러닝의 활용
 - [x] 16장 이미지 인식의 꽃, CNN 익히기 (22-02-21 ~ )   
-  [① Data Preprocessing ](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/16-1_MNIST_Data.ipynb)
-- [ ] 17장 딥러닝을 이용한 자연어 처리
-- [ ] 18장 시퀀스 배열로 다루는 순환 신경망(RNN)
-- [ ] 19장 세상에 없는 얼굴 GAN, 오토인코더
-- [ ] 20장 전이 학습을 통해 딥러닝의 성능 극대화하기
+  MNIST 손글씨 인식하기   
+  [① Data Preprocessing ](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/16-1_MNIST_Data.ipynb)   
+  [② Basic Frame](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/16-2_MNIST_Simple.ipynb)   
+  [③ CNN](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/16-3_MNIST_Deep(CNN).ipynb)   
+- [x] 17장 딥러닝을 이용한 자연어 처리   
+  [① Tokenization](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/17-1_NLP_tokenization.ipynb)   
+  [② 영화 리뷰가 긍정적인지 부정적인지 예측하기](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/17-2_NLP.ipynb)   
+- [ ] 18장 시퀀스 배열로 다루는 순환 신경망(RNN)   
+- [ ] 19장 세상에 없는 얼굴 GAN, 오토인코더   
+- [ ] 20장 전이 학습을 통해 딥러닝의 성능 극대화하기   
 
 #### 💗 심화 학습
 - [x] 심화 학습 1 오차 역전파의 계산법 (22-02-17)
