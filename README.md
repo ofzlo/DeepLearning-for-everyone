@@ -66,12 +66,12 @@
   [② NLP](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/17-2_NLP.ipynb)   
 - [x] 18장 시퀀스 배열로 다루는 순환 신경망(RNN) (22-03-02)   
   로이터 뉴스 카테고리 분석하기   
-  [① LSTM]()   
-  영화 리뷰 분류하기
-  [② LSTM + CNN]()   
-- [x] 19장 세상에 없는 얼굴 GAN, 오토인코더 (22-03-03 ~ )   
-  [① GAN(with MNIST)]()   
-  [② Auto-Encoder, AE]()   
+  [① LSTM](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/18-1_RNN1_Reuters.ipynb)   
+  영화 리뷰 분류하기  
+  [② LSTM + CNN](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/18-2_RNN2_imdb_lstm.ipynb)   
+- [x] 19장 세상에 없는 얼굴 GAN, 오토인코더 (22-03-03 ~ 22-03-05)   
+  [① GAN(with MNIST)](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/19-1_GAN.ipynb)   
+  [② Auto-Encoder, AE](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/19-2_AutoEncoder.ipynb)   
 - [ ] 20장 전이 학습을 통해 딥러닝의 성능 극대화하기   
   치매 환자의 뇌인지 일반인의 뇌인지 예측하기   
   [① Data Augmentation]()   
