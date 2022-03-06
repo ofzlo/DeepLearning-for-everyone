@@ -72,10 +72,10 @@
 - [x] 19장 세상에 없는 얼굴 GAN, 오토인코더 (22-03-03 ~ 22-03-05)   
   [① GAN(with MNIST)](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/19-1_GAN.ipynb)   
   [② Auto-Encoder, AE](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/19-2_AutoEncoder.ipynb)   
-- [ ] 20장 전이 학습을 통해 딥러닝의 성능 극대화하기   
+- [x] 20장 전이 학습을 통해 딥러닝의 성능 극대화하기 (22-03-07)   
   치매 환자의 뇌인지 일반인의 뇌인지 예측하기   
-  [① Data Augmentation]()   
-  [② Transfer Learning]()   
+  [① Data Augmentation](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/20-1_Data_Augmentation.ipynb)   
+  [② Transfer Learning](https://github.com/ofzlo/DeepLearning-for-everyone/blob/main/run_project/20-2_Transfer_Learning.ipynb)   
 
 #### 💗 심화 학습
 - [x] 심화 학습 1 오차 역전파의 계산법 (22-02-17)
